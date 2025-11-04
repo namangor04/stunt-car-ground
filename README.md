@@ -1,5 +1,7 @@
 ## About
 
+![alt tag](https://raw.githubusercontent.com/namangor04/stunt-car-ground/master/StuntCarGround.gif)
+
 This is a simple vehicle physics simulation for Unity, focused on easy tuning and stable behavior. This is college project, so don't expect production-ready code.
 
 Key things:
